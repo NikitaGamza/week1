@@ -1,7 +1,8 @@
 {
   "headers":{
     "/*":{
-      "X-Author": "gamzanikita"
+      "X-Author": "gamzanikita",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
